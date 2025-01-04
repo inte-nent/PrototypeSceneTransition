@@ -1,4 +1,4 @@
-# prototype_scene_transition
+# Prototype Scene Transition
 made by using "DX Library (DX ライブラリ)" --> URL: https://dxlib.xsrv.jp/
 
 [日本語]
